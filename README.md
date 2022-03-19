@@ -1,6 +1,6 @@
 # hello-world
 Hello World assignment for 604B
-#Greg Stanley
-**Born in Tucson, Arizona**
-**Lives in Brooklyn, New York**
-*misses good Mexican food*
+# My name is Greg Stanley.
+**Born in Tucson, Arizona.**
+**Lives in Brooklyn, New York.**
+*I miss good Mexican food.*
